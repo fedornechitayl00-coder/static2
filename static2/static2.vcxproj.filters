@@ -21,9 +21,18 @@
     <ClCompile Include="MyMath.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="main1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Adaptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Adaptor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
