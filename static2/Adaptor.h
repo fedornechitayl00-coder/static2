@@ -14,7 +14,8 @@ public:
 	Adaptor();
 	Adaptor(std::string connector, int price, float speed);
 
+	std::string getId() const;
+
 	friend std::ostream& operator << (std::ostream& out, const Adaptor& obj);
 
 };
-

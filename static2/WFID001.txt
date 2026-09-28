@@ -1,0 +1,5 @@
+
+id: WFID001
+connector: USB 2.0
+price: 100
+speed: 100

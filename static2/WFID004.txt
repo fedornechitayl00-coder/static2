@@ -1,0 +1,5 @@
+
+id: WFID004
+connector: DSP
+price: 1500
+speed: 900
